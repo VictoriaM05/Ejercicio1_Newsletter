@@ -20,7 +20,7 @@ ingresar su correo electrónico y enviarlo mediante un botón.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: https://github.com/VictoriaM05/Ejercicio1_Newsletter.git
 Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
