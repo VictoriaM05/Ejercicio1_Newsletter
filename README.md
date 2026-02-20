@@ -20,8 +20,8 @@ ingresar su correo electrónico y enviarlo mediante un botón.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/VictoriaM05/Ejercicio1_Newsletter.git
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: [https://github.com/VictoriaM05/Ejercicio1_Newsletter.git]
+Deploy: [https://victoriam05.github.io/Ejercicio1_Newsletter/]
 ---
 
 ## 📝 Reflexión
